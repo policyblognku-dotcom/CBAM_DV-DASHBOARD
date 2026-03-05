@@ -1,1 +1,1 @@
-npm i @vercel/analytics
+
